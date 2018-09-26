@@ -2,7 +2,7 @@
 数据库连接池操作
 ####        导入文件
 
-![1537963719165](C:\Users\LMT\AppData\Local\Temp\1537963719165.png)
+![](C:\Users\LMT\Desktop\11.png)
 
 #### 	数据库连接配置  c3p0-config.xml
 
@@ -139,4 +139,3 @@ public List<Pet> getPetsInStock(int storeId) throws Exception {
 	}//将带参的数据库执行更新操作
  
 ```
-
