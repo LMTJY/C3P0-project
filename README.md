@@ -2,7 +2,7 @@
 数据库连接池操作
 ####        导入文件
 
-![](C:\Users\LMT\Desktop\11.png)
+![]()
 
 #### 	数据库连接配置  c3p0-config.xml
 
